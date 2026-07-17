@@ -1,4 +1,4 @@
-{% extends 'home/base.html' %}
+{% extends 'layout/base.html' %}
 {% load static %}
 {% block css %}
 <link rel="stylesheet" href="{% static 'home/css/quiz.css' %}">
@@ -36,8 +36,7 @@
 
         <div class="mt-2 p-3 d-flex justify-content-between">
             {% if page_obj.has_previous %}
-            <a class="btn btn-outline-primary" href="?page={{page_obj.previous_page_number}}&category={{category}}">
-
+            <a class="btn btn-outline-primary" href="{% url 'quiz_by_slug' category.slug %}?page={{page_obj.previous_page_number}}">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-arrow-left-square-fill mr-2" viewBox="0 0 16 16">
                     <path
@@ -47,11 +46,11 @@
             </a>
             {% endif %}
             {% if page_obj.has_next %}
-            <a class="btn btn-primary " href="?page={{page_obj.next_page_number}}&category={{category}}">Next
+            <a class="btn btn-primary " href="{% url 'quiz_by_slug' category.slug %}?page={{page_obj.next_page_number}}">Next
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                     class="bi bi-arrow-right-square-fill ml-2" viewBox="0 0 16 16">
                     <path
-                        d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z" />
+                        d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v14zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z" />
                 </svg>
             </a>
             {% endif %}

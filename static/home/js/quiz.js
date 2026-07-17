@@ -63,11 +63,11 @@ answerInput.forEach((e, i) => {
             fetch(`/checkAnswer/${uid}/${createObj}`).then((response) => {
                 response.json().then((data) => {
                     if (data['status'] == 200) {
+                        document.getElementById('marks').innerHTML = data['marks'];
                         if (data['is_correct'] == 'true') {
                             e.target.parentNode.classList.add('list-group-item-success');
                             questionP.addClass('text-success');
                             giveAlert('alertDiv', 'success', 'Congo! Write Answer.');
-                            document.getElementById('marks').innerHTML = data['marks'];
                         }
                         else {
                             e.target.parentNode.classList.add('list-group-item-danger');

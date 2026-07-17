@@ -2,9 +2,8 @@ from django.db import models
 from uuid import uuid4
 from random import shuffle
 from django.contrib.auth.models import User
-from django.db.models.signals import post_save
-from django.dispatch import receiver
 from datetime import timedelta
+from django.utils.text import slugify
 
 #Base Class
 
@@ -18,11 +17,18 @@ class BaseModel(models.Model):
     
 class Category(BaseModel):
     name = models.CharField(max_length=100)
+    slug = models.SlugField(max_length=120, unique=True, blank=True)
     description  = models.TextField(default='')
     total_marks=models.IntegerField(default=0)
     total_questions=models.IntegerField(default=0)
     image = models.ImageField(upload_to='media/',default=None,null=True,blank=True)
     total_time = models.IntegerField(default=60)
+
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            self.slug = slugify(self.name)
+        super().save(*args, **kwargs)
+
     def __str__(self) -> str:
         return self.name
     
@@ -96,16 +102,20 @@ class Quiz(BaseModel):
                 marks += i.question.mark
         self.marks = marks
 
-    # def save(self,*args,**kwargs):
-    #     print(self.start_time)
-       
-        # super(Quiz,self).save(*args,**kwargs)
+    def save(self, *args, **kwargs):
+        is_new = self.pk is None
+        if not is_new and not self.end_time and self.start_time:
+            self.end_time = self.start_time + timedelta(minutes=self.category.total_time)
+        if not is_new:
+            self.calculateMarks()
+        super().save(*args, **kwargs)
+        if is_new:
+            self.refresh_from_db(fields=['start_time'])
+            self.end_time = self.start_time + timedelta(minutes=self.category.total_time)
+            self.calculateMarks()
+            super().save(update_fields=['end_time', 'marks'])
+
     def __str__(self):
         return f'{self.user.username} {str(self.total_marks)}'
-    
-@receiver(post_save,sender=Quiz)
-def update_marks(sender,instance,created,**kwargs):
-    instance.end_time = instance.start_time + timedelta(minutes=instance.category.total_time)
-    instance.calculateMarks()
 
     

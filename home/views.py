@@ -15,21 +15,21 @@ from django.db.models import Q
 def index(request):
     categories = Category.objects.all()
     context = {'categories': categories, 'homeactive': True}
-    category_text = request.GET.get('category')
-    if category_text:
+    category_slug = request.GET.get('category')
+    if category_slug:
         user = request.user
+        category = Category.objects.get(slug=category_slug)
         quiz_query = Quiz.objects.filter(
-            Q(user=user) & Q(category__name=category_text)
+            Q(user=user) & Q(category=category)
         )
 
         if not quiz_query.exists():
-            category = Category.objects.get(name=category_text)
             quiz = Quiz.objects.create(
                 user=user, total_marks=0, category=category, marks=0)
             quiz.save()
         else:
             quiz = quiz_query.first()
-        return redirect(f'quiz/?category={category_text}')
+        return redirect('quiz_by_slug', category_slug=category_slug)
 
     return render(request, 'home/index.html', context)
 
@@ -51,9 +51,7 @@ def check_answer(request, uid, createObj):
 
             if not is_already_given:
                 quiz.given_question.add(question)
-                quiz.save()
-            else:
-                payload = {'status': 404}
+                quiz = Quiz.objects.get(pk=quiz.pk)
             payload['marks'] = quiz.marks
         else:
             payload = {'status': 404}
@@ -68,18 +66,24 @@ def check_answer(request, uid, createObj):
         return JsonResponse({'status': 404})
 
 
-def quiz(request):
+def quiz(request, category_slug=None):
     try:
-        questions = Question.objects.all()
-        category = request.GET.get('category')
+        if category_slug:
+            category = Category.objects.get(slug=category_slug)
+            quiz = Quiz.objects.get(user=request.user, category=category)
+            questions = Question.objects.filter(category=category)
+        else:
+            category_name = request.GET.get('category')
+            category = Category.objects.get(slug=category_name) if category_name else None
+            quiz = Quiz.objects.get(user=request.user, category=category) if category else None
+            questions = Question.objects.filter(category=category) if category else Question.objects.all()
 
-        if category:
-            quiz = Quiz.objects.get(user=request.user, category__name=category)
+        if quiz:
             quiz.calculateMarks()
             quiz.category.get_total()
             quiz.save()
             quiz.category.save()
-            questions = questions.filter(category__name__icontains=category)
+
         p = Paginator(questions, 1)
 
         page_no = request.GET.get('page')

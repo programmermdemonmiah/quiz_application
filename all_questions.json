@@ -1,0 +1,3682 @@
+{
+  "pdfs": [
+    {
+      "file": "NSDA Level-4 Python with Django Written Questions with Answers.pdf",
+      "type": "written",
+      "total_questions": 120,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Explain different data types in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 2,
+          "question": "Explain the difference between list and tuple in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 3,
+          "question": "What is the difference between Python 2 and Python 3?",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 4,
+          "question": "Explain PEP 8 in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 5,
+          "question": "Explain if-elif-else conditional statement with a Python example.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 6,
+          "question": "Explain for loop in Python with an example.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 7,
+          "question": "Explain while loop in Python with an example.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 8,
+          "question": "Explain break and continue statement in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 9,
+          "question": "Explain the range() function with real-world examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 10,
+          "question": "Explain the ternary operator in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 11,
+          "question": "Explain the difference between local variable and global variable.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 12,
+          "question": "Explain functions in Python with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 13,
+          "question": "Explain *args and **kwargs with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 14,
+          "question": "Explain the map(), filter(), and reduce() functions.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 15,
+          "question": "Explain list comprehension with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 16,
+          "question": "Explain OOP concepts in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 17,
+          "question": "Explain polymorphism with a Python example.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 18,
+          "question": "Explain encapsulation and abstraction with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 19,
+          "question": "Explain the difference between method overloading and method overriding.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 20,
+          "question": "Explain the use of super() function in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 21,
+          "question": "Explain Django framework and its advantages.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 22,
+          "question": "Explain Django MVT architecture with a diagram.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 23,
+          "question": "Explain the difference between Django Project and Django App.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 24,
+          "question": "Explain the structure of a Django project.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 25,
+          "question": "Explain the purpose of important Django files.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 26,
+          "question": "Explain the Django request-response lifecycle.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 27,
+          "question": "Explain the difference between Function-Based Views (FBV) and Class-Based Views (CBV).",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 28,
+          "question": "What is Django URL Routing? Explain with an example.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 29,
+          "question": "Explain Django Template Language (DTL).",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 30,
+          "question": "Explain Template Inheritance in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 31,
+          "question": "What are static files and media files in Django? Explain the difference.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 32,
+          "question": "Explain Django Models and their importance.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 33,
+          "question": "Explain different Django Model Fields with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 34,
+          "question": "Explain Primary Key and Foreign Key in Django Models.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 35,
+          "question": "Explain the difference between OneToOneField, ForeignKey, and ManyToManyField.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 36,
+          "question": "Explain Django Model Meta class.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 37,
+          "question": "Explain the purpose of the __str__() method in Django Models.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 38,
+          "question": "What are Django migrations? Explain makemigrations and migrate.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 39,
+          "question": "Explain Django ORM and its advantages.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 40,
+          "question": "Explain the difference between get(), filter(), and exclude().",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 41,
+          "question": "Explain QuerySet in Django with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 42,
+          "question": "Explain the difference between select_related() and prefetch_related().",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 43,
+          "question": "Explain Django ORM aggregation functions.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 44,
+          "question": "Explain Django Q objects and F objects with examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 45,
+          "question": "Explain database relationships in Django ORM.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 46,
+          "question": "Explain Django Forms and their purpose.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 47,
+          "question": "Explain the difference between Form and ModelForm.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 48,
+          "question": "Explain Django Form validation process.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 49,
+          "question": "Explain the use of clean() and clean_fieldname().",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 50,
+          "question": "Explain Django Form widgets and their uses.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 51,
+          "question": "Explain Django REST Framework (DRF).",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 52,
+          "question": "Explain the difference between Serializer and ModelSerializer.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 53,
+          "question": "Explain the process of converting Model data into JSON using Serializer.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 54,
+          "question": "Explain Serializer validation in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 55,
+          "question": "Explain the purpose of create() and update() methods in Serializer.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 56,
+          "question": "Explain APIView in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 57,
+          "question": "Explain the difference between APIView and ViewSet.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 58,
+          "question": "Explain HTTP methods GET, POST, PUT, PATCH, DELETE.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 59,
+          "question": "Explain REST API architecture.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 60,
+          "question": "Explain authentication and authorization in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 61,
+          "question": "Explain Django built-in User authentication system.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 62,
+          "question": "Explain login, logout, and authenticate functions in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 63,
+          "question": "Explain Session and Cookie in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 64,
+          "question": "Explain CSRF attack and CSRF protection in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 65,
+          "question": "Explain Django Middleware and its uses.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 66,
+          "question": "Explain Django Signals.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 67,
+          "question": "Explain the difference between pre_save, post_save, pre_delete, and post_delete.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 68,
+          "question": "Explain Django Admin customization.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 69,
+          "question": "Explain how to create a custom user model in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 70,
+          "question": "Explain Django permissions and groups.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 71,
+          "question": "Explain how to optimize database queries in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 72,
+          "question": "Explain Django caching and its benefits.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 73,
+          "question": "Explain how to create CRUD operations in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 74,
+          "question": "Explain how to build a REST API using Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 75,
+          "question": "Explain the difference between Session Authentication and Token Authentication.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 76,
+          "question": "Explain JWT Authentication in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 77,
+          "question": "Explain pagination in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 78,
+          "question": "Explain API permissions in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 79,
+          "question": "Explain how to handle file upload in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 80,
+          "question": "Explain how to handle image upload using ImageField.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 81,
+          "question": "Explain Django testing framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 82,
+          "question": "Explain Unit Testing in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 83,
+          "question": "Explain how Django connects with databases.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 84,
+          "question": "Explain the difference between SQLite, MySQL, and PostgreSQL in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 85,
+          "question": "Explain Django security features.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 86,
+          "question": "Explain SQL Injection and prevention methods in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 87,
+          "question": "Explain XSS attack and prevention in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 88,
+          "question": "Explain the difference between null=True and blank=True.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 89,
+          "question": "Explain the difference between static files and uploaded media files.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 90,
+          "question": "Explain Django project deployment requirements.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 91,
+          "question": "Explain environment variables in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 92,
+          "question": "Explain DEBUG mode in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 93,
+          "question": "Explain the difference between development and production settings.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 94,
+          "question": "Explain Django management commands.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 95,
+          "question": "Explain how to create custom Django commands.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 96,
+          "question": "Explain Django middleware execution order.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 97,
+          "question": "Explain Django signals with real-world examples.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 98,
+          "question": "Explain how Serializer handles nested relationships.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 99,
+          "question": "Explain how to create a complete CRUD API using Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 100,
+          "question": "Explain complete Django application development workflow.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 101,
+          "question": "Explain exception handling in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 102,
+          "question": "Explain try, except, else, and finally blocks in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 103,
+          "question": "Explain different types of Python built-in exceptions.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 104,
+          "question": "Explain the difference between syntax error and runtime error.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 105,
+          "question": "Explain the purpose of the raise keyword in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 106,
+          "question": "Explain custom exceptions in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 107,
+          "question": "Explain multiple exception handling in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 108,
+          "question": "Explain the use of Exception class in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 109,
+          "question": "Explain file handling error handling in Python.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 110,
+          "question": "Explain Django error handling.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 111,
+          "question": "Explain Django 404 error handling.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 112,
+          "question": "Explain Django 500 server error handling.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 113,
+          "question": "Explain exception handling inside Django views.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 114,
+          "question": "Explain get_object_or_404() in Django.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 115,
+          "question": "Explain Django model validation errors.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 116,
+          "question": "Explain Django Form error handling.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 117,
+          "question": "Explain Django REST Framework exception handling.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 118,
+          "question": "Explain custom exception handler in Django REST Framework.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 119,
+          "question": "Explain Serializer validation error handling in DRF.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        },
+        {
+          "id": 120,
+          "question": "Explain why proper error handling is important in Django applications.",
+          "type": "written",
+          "options": null,
+          "answer": "See PDF for detailed answer"
+        }
+      ]
+    },
+    {
+      "file": "NSDA Level-4 Python with Django Advanced MCQ.pdf",
+      "type": "mcq",
+      "total_questions": 100,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What type of object does range() return in Python?",
+          "type": "mcq",
+          "options": [
+            "A. List",
+            "B. Tuple",
+            "C. Range Object",
+            "D. Dictionary"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 2,
+          "question": "Which loop is guaranteed to execute at least once?",
+          "type": "mcq",
+          "options": [
+            "A. for loop",
+            "B. while loop",
+            "C. do-while loop",
+            "D. None in Python"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": 3,
+          "question": "What is the correct syntax of the Python Ternary Operator?",
+          "type": "mcq",
+          "options": [
+            "A. if condition ? a : b",
+            "B. a if condition else b",
+            "C. if condition(a,b)",
+            "D. condition(a:b)"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 4,
+          "question": "What is the purpose of elif?",
+          "type": "mcq",
+          "options": [
+            "A. To create loops",
+            "B. To check multiple conditions",
+            "C. To create functions",
+            "D. To create classes"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 5,
+          "question": "What does Nested Loop mean?",
+          "type": "mcq",
+          "options": [
+            "A. A loop inside another loop",
+            "B. A loop inside a function",
+            "C. A function inside a class",
+            "D. Stopping a loop"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 6,
+          "question": "What does the break statement do?",
+          "type": "mcq",
+          "options": [
+            "A. Skips the current iteration",
+            "B. Completely stops the loop",
+            "C. Stops the program",
+            "D. Creates an error"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "What does the continue statement do?",
+          "type": "mcq",
+          "options": [
+            "A. Stops the loop",
+            "B. Skips the current iteration",
+            "C. Returns from a function",
+            "D. Deletes a variable"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "What is a Default Argument in a Python Function?",
+          "type": "mcq",
+          "options": [
+            "A. An argument that has a default value",
+            "B. A required argument",
+            "C. A deleted argument",
+            "D. A global argument"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 9,
+          "question": "What does *args accept?",
+          "type": "mcq",
+          "options": [
+            "A. Keyword arguments",
+            "B. Multiple positional arguments",
+            "C. Integer values",
+            "D. String values"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 10,
+          "question": "What does **kwargs accept?",
+          "type": "mcq",
+          "options": [
+            "A. Multiple keyword arguments",
+            "B. List values",
+            "C. Tuple values",
+            "D. Integer values"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 11,
+          "question": "Which architecture does Django follow?",
+          "type": "mcq",
+          "options": [
+            "A. MVC",
+            "B. MVT",
+            "C. MVP",
+            "D. MVVM"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "question": "What does the Django Model handle?",
+          "type": "mcq",
+          "options": [
+            "A. Database structure",
+            "B. User Interface",
+            "C. URL routing",
+            "D. CSS design"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 13,
+          "question": "What is the responsibility of a Django View?",
+          "type": "mcq",
+          "options": [
+            "A. Handle business logic",
+            "B. Create databases",
+            "C. Write CSS",
+            "D. Install servers"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Which layer is Django Template?",
+          "type": "mcq",
+          "options": [
+            "A. Presentation Layer",
+            "B. Database Layer",
+            "C. Security Layer",
+            "D. Server Layer"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "In which file are Django Models written?",
+          "type": "mcq",
+          "options": [
+            "A. views.py",
+            "B. urls.py",
+            "C. models.py",
+            "D. forms.py"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 16,
+          "question": "Which class is used for Django Model Fields?",
+          "type": "mcq",
+          "options": [
+            "A. models",
+            "B. views",
+            "C. forms",
+            "D. admin"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "What is a characteristic of a Primary Key?",
+          "type": "mcq",
+          "options": [
+            "A. It can have duplicates",
+            "B. It must be unique",
+            "C. It must be empty",
+            "D. It must be a string"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "question": "Which Django Field creates an auto-increment primary key?",
+          "type": "mcq",
+          "options": [
+            "A. AutoField",
+            "B. IntegerField",
+            "C. CharField",
+            "D. BooleanField"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "Which Field is used to store long text data?",
+          "type": "mcq",
+          "options": [
+            "A. TextField",
+            "B. IntegerField",
+            "C. DateField",
+            "D. FloatField"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "Which Field is suitable for storing email addresses?",
+          "type": "mcq",
+          "options": [
+            "A. EmailField",
+            "B. TextField",
+            "C. CharField",
+            "D. URLField"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "What type of relationship does a ForeignKey create?",
+          "type": "mcq",
+          "options": [
+            "A. One-to-One",
+            "B. One-to-Many",
+            "C. Many-to-Many",
+            "D. None"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 22,
+          "question": "What type of relationship does ManyToManyField create?",
+          "type": "mcq",
+          "options": [
+            "A. One-to-One",
+            "B. One-to-Many",
+            "C. Many-to-Many",
+            "D. One-to-None"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 23,
+          "question": "What type of relationship does OneToOneField create?",
+          "type": "mcq",
+          "options": [
+            "A. One-to-One",
+            "B. One-to-Many",
+            "C. Many-to-Many",
+            "D. Many-to-One"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 24,
+          "question": "Which command creates migrations in Django?",
+          "type": "mcq",
+          "options": [
+            "A. python manage.py migrate",
+            "B. python manage.py makemigrations",
+            "C. python manage.py create",
+            "D. python manage.py model"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Which command applies migrations to the database?",
+          "type": "mcq",
+          "options": [
+            "A. migrate",
+            "B. makemigrations",
+            "C. install",
+            "D. update"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 26,
+          "question": "What is the full form of Django ORM?",
+          "type": "mcq",
+          "options": [
+            "A. Object Relational Mapping",
+            "B. Object Record Manager",
+            "C. Online Relation Model",
+            "D. Object Runtime Method"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 27,
+          "question": "Which query retrieves all objects from a Django model?",
+          "type": "mcq",
+          "options": [
+            "A. Model.objects.all()",
+            "B. Model.objects.get()",
+            "C. Model.objects.first()",
+            "D. Model.objects.create()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "question": "Which method is used to retrieve a single object?",
+          "type": "mcq",
+          "options": [
+            "A. filter()",
+            "B. get()",
+            "C. all()",
+            "D. values()"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 29,
+          "question": "What does the filter() method return?",
+          "type": "mcq",
+          "options": [
+            "A. Single Object",
+            "B. QuerySet",
+            "C. String",
+            "D. Integer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 30,
+          "question": "What does the exists() method return?",
+          "type": "mcq",
+          "options": [
+            "A. Object",
+            "B. Boolean",
+            "C. QuerySet",
+            "D. List"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 31,
+          "question": "Django Forms come from which package?",
+          "type": "mcq",
+          "options": [
+            "A. django.forms",
+            "B. django.models",
+            "C. django.views",
+            "D. django.template"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 32,
+          "question": "Which one is used to create a form based on a Model?",
+          "type": "mcq",
+          "options": [
+            "A. Form",
+            "B. ModelForm",
+            "C. ViewForm",
+            "D. DatabaseForm"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 33,
+          "question": "Which method is used for Form Validation?",
+          "type": "mcq",
+          "options": [
+            "A. validate()",
+            "B. clean()",
+            "C. check()",
+            "D. verify()"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 34,
+          "question": "Which method is used for specific field validation?",
+          "type": "mcq",
+          "options": [
+            "A. clean_fieldname()",
+            "B. validate_field()",
+            "C. field_clean()",
+            "D. check_field()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 35,
+          "question": "Which method checks whether Django Form data is valid?",
+          "type": "mcq",
+          "options": [
+            "A. is_valid()",
+            "B. check()",
+            "C. validate()",
+            "D. verify()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 36,
+          "question": "What does a Django REST Framework Serializer do?",
+          "type": "mcq",
+          "options": [
+            "A. Converts objects into JSON",
+            "B. Creates databases",
+            "C. Runs servers",
+            "D. Creates HTML"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 37,
+          "question": "Which Serializer is based on Django Models?",
+          "type": "mcq",
+          "options": [
+            "A. Serializer",
+            "B. ModelSerializer",
+            "C. JSONSerializer",
+            "D. ObjectSerializer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 38,
+          "question": "What is the full form of DRF?",
+          "type": "mcq",
+          "options": [
+            "A. Django Request Framework",
+            "B. Django REST Framework",
+            "C. Database REST Framework",
+            "D. Django Routing Framework"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 39,
+          "question": "Which format is commonly used for API responses?",
+          "type": "mcq",
+          "options": [
+            "A. XML Only",
+            "B. JSON",
+            "C. TXT",
+            "D. CSV Only"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 40,
+          "question": "Which method is used for Serializer validation?",
+          "type": "mcq",
+          "options": [
+            "A. validate()",
+            "B. check()",
+            "C. verify()",
+            "D. clean()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 41,
+          "question": "Which method is used to register a Model in Django Admin?",
+          "type": "mcq",
+          "options": [
+            "A. admin.register()",
+            "B. admin.site.register()",
+            "C. register.admin()",
+            "D. site.admin()"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 42,
+          "question": "What is the Django Template variable syntax?",
+          "type": "mcq",
+          "options": [
+            "A. {% variable %}",
+            "B. {{ variable }}",
+            "C. <variable>",
+            "D. $(variable)"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 43,
+          "question": "Which tag is used for CSRF Protection in Django Forms?",
+          "type": "mcq",
+          "options": [
+            "A. {% csrf_token %}",
+            "B. {% security %}",
+            "C. {% protect %}",
+            "D. {% token %}"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 44,
+          "question": "What is Django Middleware?",
+          "type": "mcq",
+          "options": [
+            "A. A request/response processing layer",
+            "B. A database",
+            "C. A template",
+            "D. A model"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 45,
+          "question": "Which is the built-in Django Authentication app?",
+          "type": "mcq",
+          "options": [
+            "A. django.auth",
+            "B. django.contrib.auth",
+            "C. django.authentication",
+            "D. auth.django"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 46,
+          "question": "Which function is used for user login in Django?",
+          "type": "mcq",
+          "options": [
+            "A. login()",
+            "B. signin()",
+            "C. authenticate_user()",
+            "D. user_login()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 47,
+          "question": "How does Django store passwords?",
+          "type": "mcq",
+          "options": [
+            "A. Plain Text",
+            "B. Using Hash Algorithm",
+            "C. Encryption Only",
+            "D. XML"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 48,
+          "question": "Where can Django Session data be stored?",
+          "type": "mcq",
+          "options": [
+            "A. Database",
+            "B. Cache",
+            "C. Cookie",
+            "D. All of the above"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": 49,
+          "question": "Why is select_related() used in Django?",
+          "type": "mcq",
+          "options": [
+            "A. Query Optimization",
+            "B. Form Validation",
+            "C. URL Routing",
+            "D. Template Design"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 50,
+          "question": "Why is prefetch_related() used in Django?",
+          "type": "mcq",
+          "options": [
+            "A. To optimize related object queries",
+            "B. To save passwords",
+            "C. To create forms",
+            "D. To create APIs"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 51,
+          "question": "Which Python keyword is used to create an anonymous function?",
+          "type": "mcq",
+          "options": [
+            "A. function",
+            "B. lambda",
+            "C. anonymous",
+            "D. def"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 52,
+          "question": "What is the output type of a function containing yield?",
+          "type": "mcq",
+          "options": [
+            "A. List",
+            "B. Generator",
+            "C. Tuple",
+            "D. Dictionary"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 53,
+          "question": "Which operator checks whether two variables refer to the same object in memory?",
+          "type": "mcq",
+          "options": [
+            "A. ==",
+            "B. is",
+            "C. equals",
+            "D. ==="
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 54,
+          "question": "Which method is called automatically when an object is created?",
+          "type": "mcq",
+          "options": [
+            "A. start()",
+            "B. create()",
+            "C. init()",
+            "D. constructor()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 55,
+          "question": "What is the purpose of super() in Python?",
+          "type": "mcq",
+          "options": [
+            "A. To create a new object",
+            "B. To call parent class methods",
+            "C. To delete a class",
+            "D. To import modules"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 56,
+          "question": "Which Python concept allows the same method name to behave differently?",
+          "type": "mcq",
+          "options": [
+            "A. Encapsulation",
+            "B. Polymorphism",
+            "C. Inheritance",
+            "D. Abstraction"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 57,
+          "question": "Which block is used to handle exceptions in Python?",
+          "type": "mcq",
+          "options": [
+            "A. if-else",
+            "B. try-except",
+            "C. switch-case",
+            "D. catch-finally"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 58,
+          "question": "Which keyword is used to manually raise an exception?",
+          "type": "mcq",
+          "options": [
+            "A. throw",
+            "B. error",
+            "C. raise",
+            "D. exception"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 59,
+          "question": "What does the finally block do?",
+          "type": "mcq",
+          "options": [
+            "A. Executes only when error occurs",
+            "B. Executes only when no error occurs",
+            "C. Always executes",
+            "D. Stops execution"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 60,
+          "question": "Which function returns the length of an object?",
+          "type": "mcq",
+          "options": [
+            "A. size()",
+            "B. count()",
+            "C. len()",
+            "D. length()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 61,
+          "question": "Django follows which architectural pattern?",
+          "type": "mcq",
+          "options": [
+            "A. MVC",
+            "B. MVT",
+            "C. MVP",
+            "D. MVVM"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 62,
+          "question": "Which file contains Django application settings?",
+          "type": "mcq",
+          "options": [
+            "A. views.py",
+            "B. models.py",
+            "C. settings.py",
+            "D. urls.py"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 63,
+          "question": "Which command creates a new Django project?",
+          "type": "mcq",
+          "options": [
+            "A. django-admin startproject",
+            "B. django createproject",
+            "C. python createproject",
+            "D. django new"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 64,
+          "question": "Which command creates a new Django application?",
+          "type": "mcq",
+          "options": [
+            "A. django-admin startapp",
+            "B. python createapp",
+            "C. django newapp",
+            "D. manage.py createapp"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 65,
+          "question": "Which Django component handles business logic?",
+          "type": "mcq",
+          "options": [
+            "A. Template",
+            "B. Model",
+            "C. View",
+            "D. URL"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 66,
+          "question": "What is the main purpose of Django ORM?",
+          "type": "mcq",
+          "options": [
+            "A. Design HTML pages",
+            "B. Communicate with databases using Python objects",
+            "C. Manage CSS files",
+            "D. Create JavaScript code"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 67,
+          "question": "Which method retrieves all records from a Django model?",
+          "type": "mcq",
+          "options": [
+            "A. get()",
+            "B. all()",
+            "C. filter()",
+            "D. fetch()"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 68,
+          "question": "Which method returns a single object?",
+          "type": "mcq",
+          "options": [
+            "A. filter()",
+            "B. all()",
+            "C. get()",
+            "D. values()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 69,
+          "question": "What does Django filter() return?",
+          "type": "mcq",
+          "options": [
+            "A. Single object",
+            "B. QuerySet",
+            "C. Dictionary",
+            "D. String"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 70,
+          "question": "Which QuerySet method is used to sort data?",
+          "type": "mcq",
+          "options": [
+            "A. order_by()",
+            "B. sort()",
+            "C. arrange()",
+            "D. ordering()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 71,
+          "question": "Which field creates a relationship between two models?",
+          "type": "mcq",
+          "options": [
+            "A. CharField",
+            "B. ForeignKey",
+            "C. TextField",
+            "D. IntegerField"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 72,
+          "question": "ForeignKey represents which relationship?",
+          "type": "mcq",
+          "options": [
+            "A. One-to-One",
+            "B. One-to-Many",
+            "C. Many-to-Many",
+            "D. Many-to-One only"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 73,
+          "question": "Which field is used for many-to-many relationships?",
+          "type": "mcq",
+          "options": [
+            "A. ManyField",
+            "B. ManyToManyField",
+            "C. MultipleField",
+            "D. RelationField"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 74,
+          "question": "What is the purpose of Django migrations?",
+          "type": "mcq",
+          "options": [
+            "A. Create HTML pages",
+            "B. Apply database schema changes",
+            "C. Start server",
+            "D. Create users"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 75,
+          "question": "Which command applies migrations to the database?",
+          "type": "mcq",
+          "options": [
+            "A. migrate",
+            "B. makemigrations",
+            "C. install",
+            "D. update"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 76,
+          "question": "What does __str__() method do in Django models?",
+          "type": "mcq",
+          "options": [
+            "A. Converts object into readable string representation",
+            "B. Deletes object",
+            "C. Saves object",
+            "D. Creates database table"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 77,
+          "question": "What is the purpose of Meta class inside a Django model?",
+          "type": "mcq",
+          "options": [
+            "A. Configure model options",
+            "B. Create views",
+            "C. Handle forms",
+            "D. Create URLs"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 78,
+          "question": "Which attribute makes a field optional in forms?",
+          "type": "mcq",
+          "options": [
+            "A. null=True",
+            "B. blank=True",
+            "C. optional=True",
+            "D. empty=True"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 79,
+          "question": "Which attribute allows NULL values in database?",
+          "type": "mcq",
+          "options": [
+            "A. blank=True",
+            "B. null=True",
+            "C. empty=True",
+            "D. nullable=True"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 80,
+          "question": "Which Django class is used to create HTML forms?",
+          "type": "mcq",
+          "options": [
+            "A. django.forms.Form",
+            "B. django.html.Form",
+            "C. django.template.Form",
+            "D. django.web.Form"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 81,
+          "question": "What is ModelForm used for?",
+          "type": "mcq",
+          "options": [
+            "A. Creating forms from models",
+            "B. Creating database tables",
+            "C. Creating APIs",
+            "D. Creating templates"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 82,
+          "question": "Which method validates Django forms?",
+          "type": "mcq",
+          "options": [
+            "A. check()",
+            "B. validate()",
+            "C. is_valid()",
+            "D. verify()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 83,
+          "question": "Which method is used for custom form validation?",
+          "type": "mcq",
+          "options": [
+            "A. clean()",
+            "B. validate_custom()",
+            "C. check_form()",
+            "D. verify()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 84,
+          "question": "What is Django REST Framework mainly used for?",
+          "type": "mcq",
+          "options": [
+            "A. Creating APIs",
+            "B. Creating databases",
+            "C. Designing templates",
+            "D. Managing files"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 85,
+          "question": "Which serializer is directly connected with Django models?",
+          "type": "mcq",
+          "options": [
+            "A. JSONSerializer",
+            "B. ModelSerializer",
+            "C. HTMLSerializer",
+            "D. DataSerializer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 86,
+          "question": "Serializer converts complex data into:",
+          "type": "mcq",
+          "options": [
+            "A. Python objects only",
+            "B. JSON format",
+            "C. Database tables",
+            "D. HTML pages"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 87,
+          "question": "Which HTTP method is used to retrieve data?",
+          "type": "mcq",
+          "options": [
+            "A. POST",
+            "B. PUT",
+            "C. GET",
+            "D. DELETE"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 88,
+          "question": "Which HTTP method is used to create new data?",
+          "type": "mcq",
+          "options": [
+            "A. POST",
+            "B. GET",
+            "C. DELETE",
+            "D. PATCH"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 89,
+          "question": "Which HTTP method is commonly used for partial update?",
+          "type": "mcq",
+          "options": [
+            "A. POST",
+            "B. PATCH",
+            "C. GET",
+            "D. DELETE"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 90,
+          "question": "Which HTTP method removes a resource?",
+          "type": "mcq",
+          "options": [
+            "A. REMOVE",
+            "B. DELETE",
+            "C. DROP",
+            "D. CLEAR"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 91,
+          "question": "What is middleware in Django?",
+          "type": "mcq",
+          "options": [
+            "A. Layer that processes requests and responses",
+            "B. Database table",
+            "C. Template file",
+            "D. Model class"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 92,
+          "question": "Which Django feature protects against Cross-Site Request Forgery?",
+          "type": "mcq",
+          "options": [
+            "A. Password hashing",
+            "B. CSRF Token",
+            "C. Session",
+            "D. Cache"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 93,
+          "question": "Which Django module provides authentication?",
+          "type": "mcq",
+          "options": [
+            "A. django.auth",
+            "B. django.contrib.auth",
+            "C. django.authentication",
+            "D. django.user"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 94,
+          "question": "What is a Django signal?",
+          "type": "mcq",
+          "options": [
+            "A. Event notification mechanism",
+            "B. URL pattern",
+            "C. Database query",
+            "D. HTML component"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 95,
+          "question": "When does post_save signal execute?",
+          "type": "mcq",
+          "options": [
+            "A. Before saving object",
+            "B. After saving object",
+            "C. Before deleting object",
+            "D. During migration"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 96,
+          "question": "What is the purpose of select_related()?",
+          "type": "mcq",
+          "options": [
+            "A. Optimize database queries using JOIN",
+            "B. Create forms",
+            "C. Validate data",
+            "D. Create serializers"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 97,
+          "question": "What is the purpose of prefetch_related()?",
+          "type": "mcq",
+          "options": [
+            "A. Optimize many-to-many and reverse relationships",
+            "B. Delete cache",
+            "C. Create models",
+            "D. Validate forms"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 98,
+          "question": "Which Django file defines URL routing?",
+          "type": "mcq",
+          "options": [
+            "A. views.py",
+            "B. urls.py",
+            "C. models.py",
+            "D. forms.py"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 99,
+          "question": "Which command creates a Django superuser?",
+          "type": "mcq",
+          "options": [
+            "A. createadmin",
+            "B. createsuperuser",
+            "C. admincreate",
+            "D. makeadmin"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 100,
+          "question": "What is the default database in a new Django project?",
+          "type": "mcq",
+          "options": [
+            "A. MySQL",
+            "B. PostgreSQL",
+            "C. SQLite",
+            "D. Oracle"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "file": "NSDA Level-4 Python with Django (Advanced MCQ).pdf",
+      "type": "mcq",
+      "total_questions": 50,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Python-এর Creator কে?",
+          "type": "mcq",
+          "options": [
+            "A. James Gosling",
+            "B. Guido van Rossum",
+            "C. Dennis Ritchie",
+            "D. Bjarne Stroustrup"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 2,
+          "question": "Python কোন ধরনের Programming Language?",
+          "type": "mcq",
+          "options": [
+            "A. Compiled",
+            "B. Interpreted",
+            "C. Assembly",
+            "D. Machine"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 3,
+          "question": "নিচের কোনটি Mutable?",
+          "type": "mcq",
+          "options": [
+            "A. Tuple",
+            "B. String",
+            "C. List",
+            "D. Frozenset"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 4,
+          "question": "নিচের কোনটি Immutable?",
+          "type": "mcq",
+          "options": [
+            "A. List",
+            "B. Dictionary",
+            "C. Set",
+            "D. Tuple"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": 5,
+          "question": "type([]) এর Output কী?",
+          "type": "mcq",
+          "options": [
+            "A. tuple",
+            "B. dict",
+            "C. list",
+            "D. set"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 6,
+          "question": "len(\"Python\") এর মান কত?",
+          "type": "mcq",
+          "options": [
+            "A. 5",
+            "B. 6",
+            "C. 7",
+            "D. 8"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 7,
+          "question": "Python-এ Comment লেখার জন্য কোন Symbol ব্যবহৃত হয়?",
+          "type": "mcq",
+          "options": [
+            "A. //",
+            "B. #",
+            "C. /* */",
+            "D. --"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "নিচের কোনটি Keyword?",
+          "type": "mcq",
+          "options": [
+            "A. function",
+            "B. class",
+            "C. define",
+            "D. include"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 9,
+          "question": "Function তৈরির Keyword কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. function",
+            "B. define",
+            "C. def",
+            "D. func"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 10,
+          "question": "pass Keyword-এর কাজ কী?",
+          "type": "mcq",
+          "options": [
+            "A. Loop Stop",
+            "B. Placeholder হিসেবে কাজ করে",
+            "C. Program Exit",
+            "D. Return Value দেয়"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 11,
+          "question": "break কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Current Iteration Skip করে",
+            "B. Loop শেষ করে",
+            "C. Function Call করে",
+            "D. Variable Delete করে"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 12,
+          "question": "continue কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Loop শেষ করে",
+            "B. বর্তমান Iteration Skip করে",
+            "C. Error দেয়",
+            "D. Return করে"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 13,
+          "question": "Python-এ Anonymous Function কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. lambda",
+            "B. anonymous",
+            "C. def",
+            "D. function"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 14,
+          "question": "Generator Function কোন Keyword ব্যবহার করে?",
+          "type": "mcq",
+          "options": [
+            "A. return",
+            "B. yield",
+            "C. break",
+            "D. continue"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 15,
+          "question": "range(5) কতটি সংখ্যা Return করে?",
+          "type": "mcq",
+          "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 16,
+          "question": "Dictionary Key কেমন হতে হবে?",
+          "type": "mcq",
+          "options": [
+            "A. Duplicate হতে পারে",
+            "B. Unique হতে হবে",
+            "C. শুধুমাত্র Integer",
+            "D. শুধুমাত্র String"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 17,
+          "question": "নিচের কোনটি Set তৈরি করে?",
+          "type": "mcq",
+          "options": [
+            "A. ()",
+            "B. []",
+            "C. {}",
+            "D. set()"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": 18,
+          "question": "List Comprehension কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. [x for x in range(5)]",
+            "B. for x in range(5)",
+            "C. list(range)",
+            "D. range(list)"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 19,
+          "question": "Exception Handle করতে কোন Block ব্যবহার হয়?",
+          "type": "mcq",
+          "options": [
+            "A. if",
+            "B. switch",
+            "C. try-except",
+            "D. while"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 20,
+          "question": "finally Block কখন Execute হয়?",
+          "type": "mcq",
+          "options": [
+            "A. শুধুমাত্র Error হলে",
+            "B. Error না হলে",
+            "C. সবসময়",
+            "D. কখনো না"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 21,
+          "question": "OOP-এর পূর্ণরূপ কী?",
+          "type": "mcq",
+          "options": [
+            "A. Object Oriented Programming",
+            "B. Open Object Program",
+            "C. Object Open Process",
+            "D. Object Order Program"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Constructor Method কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. init()",
+            "B. __init__()",
+            "C. constructor()",
+            "D. start()"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "question": "Object তৈরি হয়—",
+          "type": "mcq",
+          "options": [
+            "A. Function থেকে",
+            "B. Module থেকে",
+            "C. Class থেকে",
+            "D. Package থেকে"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 24,
+          "question": "self কী নির্দেশ করে?",
+          "type": "mcq",
+          "options": [
+            "A. Parent Class",
+            "B. Current Object",
+            "C. Child Class",
+            "D. Function"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 25,
+          "question": "Inheritance-এর মূল সুবিধা কী?",
+          "type": "mcq",
+          "options": [
+            "A. Code Reusability",
+            "B. Slow Execution",
+            "C. More Errors",
+            "D. Memory Leak"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 26,
+          "question": "Multiple Inheritance Python Support করে?",
+          "type": "mcq",
+          "options": [
+            "A. Yes",
+            "B. No",
+            "C. Partially",
+            "D. Only Django"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 27,
+          "question": "super() ব্যবহৃত হয়—",
+          "type": "mcq",
+          "options": [
+            "A. Parent Method Call",
+            "B. Delete Object",
+            "C. Import Module",
+            "D. Loop"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 28,
+          "question": "Polymorphism-এর অর্থ কী?",
+          "type": "mcq",
+          "options": [
+            "A. একই Interface, ভিন্ন Implementation",
+            "B. Data Hiding",
+            "C. Data Encryption",
+            "D. Data Compression"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 29,
+          "question": "Encapsulation কী?",
+          "type": "mcq",
+          "options": [
+            "A. Data Hiding",
+            "B. Loop",
+            "C. Variable",
+            "D. Package"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 30,
+          "question": "Abstraction-এর উদ্দেশ্য কী?",
+          "type": "mcq",
+          "options": [
+            "A. Implementation Hide করা",
+            "B. Program Stop",
+            "C. Variable Delete",
+            "D. File Read"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 31,
+          "question": "Django কী?",
+          "type": "mcq",
+          "options": [
+            "A. Database",
+            "B. Python Web Framework",
+            "C. IDE",
+            "D. Browser"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 32,
+          "question": "Project তৈরির Command কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. django-admin startproject",
+            "B. django start",
+            "C. python create",
+            "D. django new"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 33,
+          "question": "App তৈরির Command কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. python manage.py createapp",
+            "B. python manage.py startapp",
+            "C. django newapp",
+            "D. python app"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 34,
+          "question": "Model কোন File-এ থাকে?",
+          "type": "mcq",
+          "options": [
+            "A. urls.py",
+            "B. views.py",
+            "C. models.py",
+            "D. admin.py"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 35,
+          "question": "View কোন File-এ লেখা হয়?",
+          "type": "mcq",
+          "options": [
+            "A. urls.py",
+            "B. views.py",
+            "C. admin.py",
+            "D. forms.py"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 36,
+          "question": "URL Configuration কোথায় থাকে?",
+          "type": "mcq",
+          "options": [
+            "A. models.py",
+            "B. urls.py",
+            "C. admin.py",
+            "D. forms.py"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 37,
+          "question": "Django ORM-এর পূর্ণরূপ কী?",
+          "type": "mcq",
+          "options": [
+            "A. Object Relational Mapping",
+            "B. Object Record Manager",
+            "C. Online Relation Mapping",
+            "D. Object Routing Module"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 38,
+          "question": "Migration তৈরি করার Command কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. python manage.py makemigrations",
+            "B. python manage.py migrate",
+            "C. python manage.py migration",
+            "D. python migration"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 39,
+          "question": "Migration Apply করার Command কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. makemigrations",
+            "B. migrate",
+            "C. apply",
+            "D. runmigration"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 40,
+          "question": "Superuser তৈরির Command কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. createadmin",
+            "B. createsuperuser",
+            "C. superuser",
+            "D. admincreate"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 41,
+          "question": "Django Admin-এর Default URL কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. /dashboard/",
+            "B. /admin/",
+            "C. /login/",
+            "D. /panel/"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 42,
+          "question": "Template Variable Syntax কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. {% variable %}",
+            "B. {{ variable }}",
+            "C. <% variable %>",
+            "D. ${variable}"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 43,
+          "question": "Template Block Syntax কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. {{ block }}",
+            "B. {% block %}",
+            "C. <block>",
+            "D. [block]"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 44,
+          "question": "Form Security-এর জন্য কোন Tag ব্যবহৃত হয়?",
+          "type": "mcq",
+          "options": [
+            "A. {% csrf_token %}",
+            "B. {% token %}",
+            "C. {% secure %}",
+            "D. {% form %}"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 45,
+          "question": "Static Files-এর উদাহরণ কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. CSS",
+            "B. JavaScript",
+            "C. Image",
+            "D. All of the Above"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": 46,
+          "question": "User Uploaded File কোথায় রাখা হয়?",
+          "type": "mcq",
+          "options": [
+            "A. Static",
+            "B. Media",
+            "C. Models",
+            "D. Views"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 47,
+          "question": "objects.all() কী Return করে?",
+          "type": "mcq",
+          "options": [
+            "A. List",
+            "B. QuerySet",
+            "C. Dictionary",
+            "D. Tuple"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 48,
+          "question": "objects.get() কী Return করে?",
+          "type": "mcq",
+          "options": [
+            "A. QuerySet",
+            "B. Single Object",
+            "C. List",
+            "D. Dictionary"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 49,
+          "question": "objects.filter() কী Return করে?",
+          "type": "mcq",
+          "options": [
+            "A. QuerySet",
+            "B. Single Object",
+            "C. Integer",
+            "D. Boolean"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 50,
+          "question": "Django-এর Default Database কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. MySQL",
+            "B. PostgreSQL",
+            "C. SQLite",
+            "D. Oracle"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "file": "Python with Django MCQ (100+).pdf",
+      "type": "mcq",
+      "total_questions": 105,
+      "questions": [
+        {
+          "id": 1,
+          "question": "Python কে তৈরি করেন?",
+          "type": "mcq",
+          "options": [
+            "A. Dennis Ritchie",
+            "B. Guido van Rossum",
+            "C. James Gosling",
+            "D. Bjarne Stroustrup"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 2,
+          "question": "Python কোন ধরনের ভাষা?",
+          "type": "mcq",
+          "options": [
+            "A. Compiled",
+            "B. Interpreted",
+            "C. Assembly",
+            "D. Machine"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 3,
+          "question": "Python ফাইলের এক্সটেনশন কী?",
+          "type": "mcq",
+          "options": [
+            "A. .java",
+            "B. .cpp",
+            "C. .py",
+            "D. .html"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 4,
+          "question": "Output দেখাতে কোন function ব্যবহৃত হয়?",
+          "type": "mcq",
+          "options": [
+            "A. echo()",
+            "B. printf()",
+            "C. print()",
+            "D. display()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 5,
+          "question": "User input নেওয়ার function?",
+          "type": "mcq",
+          "options": [
+            "A. scanf()",
+            "B. cin",
+            "C. input()",
+            "D. gets()"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 6,
+          "question": "Integer data type কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. 5",
+            "B. 5.5",
+            "C. '5'",
+            "D. True"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 7,
+          "question": "String কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. 20",
+            "B. \"Hello\"",
+            "C. False",
+            "D. 4.5"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 8,
+          "question": "Python-এ comment কীভাবে লেখা হয়?",
+          "type": "mcq",
+          "options": [
+            "A. //",
+            "B. #",
+            "C. /* */",
+            "D. # (any of these)"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 9,
+          "question": "List mutable?",
+          "type": "mcq",
+          "options": [
+            "A. Yes",
+            "B. No",
+            "C. Sometimes",
+            "D. None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 10,
+          "question": "Tuple mutable?",
+          "type": "mcq",
+          "options": [
+            "A. Yes",
+            "B. No",
+            "C. Sometimes",
+            "D. Unknown"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 11,
+          "question": "Dictionary key unique হয়?",
+          "type": "mcq",
+          "options": [
+            "A. Yes",
+            "B. No",
+            "C. Optional",
+            "D. None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 12,
+          "question": "কোন keyword loop বন্ধ করে?",
+          "type": "mcq",
+          "options": [
+            "A. stop",
+            "B. exit",
+            "C. break",
+            "D. continue"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 13,
+          "question": "continue কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Loop শেষ করে",
+            "B. পরের iteration এ যায়",
+            "C. Error দেয়",
+            "D. কিছুই না"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 14,
+          "question": "Python keyword কোনটি?",
+          "type": "mcq",
+          "options": [
+            "A. if",
+            "B. then",
+            "C. endif",
+            "D. loop"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 15,
+          "question": "Boolean value কয়টি?",
+          "type": "mcq",
+          "options": [
+            "A. 1",
+            "B. 2",
+            "C. 3",
+            "D. 4"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 16,
+          "question": "True এর মান?",
+          "type": "mcq",
+          "options": [
+            "A. 1",
+            "B. 0",
+            "C. -1",
+            "D. None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 17,
+          "question": "len() কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. যোগ",
+            "B. Length বের করে",
+            "C. Delete",
+            "D. Print"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 18,
+          "question": "range(5) কতটি সংখ্যা দেয়?",
+          "type": "mcq",
+          "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 19,
+          "question": "Python case sensitive?",
+          "type": "mcq",
+          "options": [
+            "A. Yes",
+            "B. No",
+            "C. Sometimes",
+            "D. Unknown"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 20,
+          "question": "None মানে?",
+          "type": "mcq",
+          "options": [
+            "A. Empty value",
+            "B. Zero",
+            "C. False",
+            "D. Blank String"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 21,
+          "question": "Addition operator?",
+          "type": "mcq",
+          "options": [
+            "A. +",
+            "B. -",
+            "C. *",
+            "D. /"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 22,
+          "question": "Exponent operator?",
+          "type": "mcq",
+          "options": [
+            "A. ^",
+            "B. **",
+            "C. ** (also valid)",
+            "D. //"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 23,
+          "question": "Floor division?",
+          "type": "mcq",
+          "options": [
+            "A. /",
+            "B. //",
+            "C. %",
+            "D. **"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 24,
+          "question": "Modulus operator?",
+          "type": "mcq",
+          "options": [
+            "A. %",
+            "B. % (also valid)",
+            "C. &",
+            "D. $"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 25,
+          "question": "Equality operator?",
+          "type": "mcq",
+          "options": [
+            "A. =",
+            "B. ==",
+            "C. !=",
+            "D. <="
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 26,
+          "question": "Assignment operator?",
+          "type": "mcq",
+          "options": [
+            "A. ==",
+            "B. =",
+            "C. :=",
+            "D. ==="
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 27,
+          "question": "Logical AND?",
+          "type": "mcq",
+          "options": [
+            "A. &&",
+            "B. and",
+            "C. &",
+            "D. ||"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 28,
+          "question": "Logical OR?",
+          "type": "mcq",
+          "options": [
+            "A. or",
+            "B. ||",
+            "C. &&",
+            "D. +"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 29,
+          "question": "Logical NOT?",
+          "type": "mcq",
+          "options": [
+            "A. !",
+            "B. not",
+            "C. ~",
+            "D. -"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 30,
+          "question": "Membership operator?",
+          "type": "mcq",
+          "options": [
+            "A. in",
+            "B. within",
+            "C. has",
+            "D. exist"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 31,
+          "question": "Function define keyword?",
+          "type": "mcq",
+          "options": [
+            "A. function",
+            "B. def",
+            "C. func",
+            "D. define"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 32,
+          "question": "Return keyword?",
+          "type": "mcq",
+          "options": [
+            "A. send",
+            "B. back",
+            "C. return",
+            "D. out"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": 33,
+          "question": "Class define keyword?",
+          "type": "mcq",
+          "options": [
+            "A. object",
+            "B. class",
+            "C. define",
+            "D. new"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 34,
+          "question": "Constructor?",
+          "type": "mcq",
+          "options": [
+            "A. __init__()",
+            "B. init()",
+            "C. constructor()",
+            "D. start()"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 35,
+          "question": "self কী?",
+          "type": "mcq",
+          "options": [
+            "A. বর্তমান object reference",
+            "B. Variable",
+            "C. Loop",
+            "D. Function"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 36,
+          "question": "Inheritance কী?",
+          "type": "mcq",
+          "options": [
+            "A. Data Type",
+            "B. Code Reuse",
+            "C. Loop",
+            "D. Module"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": 37,
+          "question": "Polymorphism মানে?",
+          "type": "mcq",
+          "options": [
+            "A. বহু রূপ",
+            "B. এক রূপ",
+            "C. Error",
+            "D. Loop"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 38,
+          "question": "Encapsulation কী?",
+          "type": "mcq",
+          "options": [
+            "A. Data hiding",
+            "B. Printing",
+            "C. Input",
+            "D. None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 39,
+          "question": "Object তৈরি হয়?",
+          "type": "mcq",
+          "options": [
+            "A. Class থেকে",
+            "B. Function থেকে",
+            "C. Loop থেকে",
+            "D. Module থেকে"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 40,
+          "question": "dir() কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Object info দেখায়",
+            "B. Delete",
+            "C. Save",
+            "D. Run"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 41,
+          "question": "isinstance() কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Type check",
+            "B. Create instance",
+            "C. Delete",
+            "D. Loop"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 42,
+          "question": "type() কী দেয়?",
+          "type": "mcq",
+          "options": [
+            "A. Data type",
+            "B. Length",
+            "C. Value",
+            "D. Address"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 43,
+          "question": "lambda কী?",
+          "type": "mcq",
+          "options": [
+            "A. Anonymous function",
+            "B. Loop",
+            "C. Variable",
+            "D. Class"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 44,
+          "question": "map() কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Function apply",
+            "B. Loop break",
+            "C. Create list",
+            "D. Delete"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 45,
+          "question": "filter() কী করে?",
+          "type": "mcq",
+          "options": [
+            "A. Filter data",
+            "B. Sort data",
+            "C. Add data",
+            "D. Remove"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 46,
+          "question": "list comprehension কী?",
+          "type": "mcq",
+          "options": [
+            "A. Short list creation",
+            "B. Loop",
+            "C. Function",
+            "D. Class"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 47,
+          "question": "Exception handle?",
+          "type": "mcq",
+          "options": [
+            "A. try-except",
+            "B. if-else",
+            "C. loop",
+            "D. class"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 48,
+          "question": "finally block?",
+          "type": "mcq",
+          "options": [
+            "A. সবসময় execute হয়",
+            "B. Error হলে",
+            "C. Error না হলে",
+            "D. কখনো না"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 49,
+          "question": "raise?",
+          "type": "mcq",
+          "options": [
+            "A. Exception তৈরি করে",
+            "B. Loop বন্ধ করে",
+            "C. Return করে",
+            "D. Print করে"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 50,
+          "question": "pass?",
+          "type": "mcq",
+          "options": [
+            "A. Placeholder",
+            "B. Loop stop",
+            "C. Return",
+            "D. Delete"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 51,
+          "question": "Django কী?",
+          "type": "mcq",
+          "options": [
+            "A. Python Framework",
+            "B. Database",
+            "C. IDE",
+            "D. Browser"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 52,
+          "question": "Django command?",
+          "type": "mcq",
+          "options": [
+            "A. django-admin startproject",
+            "B. create project",
+            "C. new django",
+            "D. make project"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 53,
+          "question": "App তৈরির command?",
+          "type": "mcq",
+          "options": [
+            "A. startapp",
+            "B. createapp",
+            "C. newapp",
+            "D. addapp"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 54,
+          "question": "Django ORM কী?",
+          "type": "mcq",
+          "options": [
+            "A. Object Relational Mapping",
+            "B. Object Read Memory",
+            "C. Online Record",
+            "D. None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 55,
+          "question": "Model কোথায় লেখা হয়?",
+          "type": "mcq",
+          "options": [
+            "A. models.py",
+            "B. urls.py",
+            "C. admin.py",
+            "D. settings.py"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": 56,
+          "question": "URL কোথায়?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 57,
+          "question": "View কোথায়?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 58,
+          "question": "Template folder?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 59,
+          "question": "Static files কোথায় থাকে?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 60,
+          "question": "Migration command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 61,
+          "question": "Database update command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 62,
+          "question": "Superuser command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 63,
+          "question": "Admin URL?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 64,
+          "question": "Template language?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 65,
+          "question": "Block tag?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 66,
+          "question": "Variable syntax?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 67,
+          "question": "Comment syntax?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 68,
+          "question": "CSRF token?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 69,
+          "question": "Model save method?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 70,
+          "question": "Delete method?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 71,
+          "question": "Query all objects?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 72,
+          "question": "Single object?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 73,
+          "question": "Filter data?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 74,
+          "question": "Admin register?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 75,
+          "question": "settings file?",
+          "type": "mcq",
+          "options": null,
+          "answer": "A"
+        },
+        {
+          "id": 76,
+          "question": "Default database?",
+          "type": "mcq",
+          "options": null,
+          "answer": "SQLite"
+        },
+        {
+          "id": 77,
+          "question": "Primary Key unique?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Yes"
+        },
+        {
+          "id": 78,
+          "question": "Foreign Key কী?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Relationship"
+        },
+        {
+          "id": 79,
+          "question": "SQL full form?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Structured Query Language"
+        },
+        {
+          "id": 80,
+          "question": "SELECT কী করে?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Data retrieve"
+        },
+        {
+          "id": 81,
+          "question": "INSERT?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Data insert"
+        },
+        {
+          "id": 82,
+          "question": "UPDATE?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Modify data"
+        },
+        {
+          "id": 83,
+          "question": "DELETE?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Delete data"
+        },
+        {
+          "id": 84,
+          "question": "WHERE?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Condition"
+        },
+        {
+          "id": 85,
+          "question": "ORDER BY?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Sort"
+        },
+        {
+          "id": 86,
+          "question": "COUNT()?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Count rows"
+        },
+        {
+          "id": 87,
+          "question": "DISTINCT?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Unique values"
+        },
+        {
+          "id": 88,
+          "question": "JOIN?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Combine tables"
+        },
+        {
+          "id": 89,
+          "question": "NULL মানে?",
+          "type": "mcq",
+          "options": null,
+          "answer": "No value"
+        },
+        {
+          "id": 90,
+          "question": "Index purpose?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Faster search"
+        },
+        {
+          "id": 91,
+          "question": "HTML full form?",
+          "type": "mcq",
+          "options": null,
+          "answer": "HyperText Markup Language"
+        },
+        {
+          "id": 92,
+          "question": "Hyperlink tag?",
+          "type": "mcq",
+          "options": null,
+          "answer": "<a>"
+        },
+        {
+          "id": 93,
+          "question": "Image tag?",
+          "type": "mcq",
+          "options": null,
+          "answer": "<img>"
+        },
+        {
+          "id": 94,
+          "question": "Form tag?",
+          "type": "mcq",
+          "options": null,
+          "answer": "<form>"
+        },
+        {
+          "id": 95,
+          "question": "CSS full form?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Cascading Style Sheets"
+        },
+        {
+          "id": 96,
+          "question": "JavaScript file extension?",
+          "type": "mcq",
+          "options": null,
+          "answer": ".js"
+        },
+        {
+          "id": 97,
+          "question": "CSRF অর্থ?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Cross Site Request Forgery"
+        },
+        {
+          "id": 98,
+          "question": "XSS full form?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Cross Site Scripting"
+        },
+        {
+          "id": 99,
+          "question": "SECRET_KEY কোথায় থাকে?",
+          "type": "mcq",
+          "options": null,
+          "answer": "settings.py"
+        },
+        {
+          "id": 100,
+          "question": "DEBUG=False কেন ব্যবহার করা হয়?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Production security"
+        },
+        {
+          "id": 101,
+          "question": "collectstatic command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Static files collect করে"
+        },
+        {
+          "id": 102,
+          "question": "WSGI কী?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Python Web Interface"
+        },
+        {
+          "id": 103,
+          "question": "Virtual Environment command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "python -m venv venv"
+        },
+        {
+          "id": 104,
+          "question": "pip কী?",
+          "type": "mcq",
+          "options": null,
+          "answer": "Package Manager"
+        },
+        {
+          "id": 105,
+          "question": "Django install command?",
+          "type": "mcq",
+          "options": null,
+          "answer": "pip install django"
+        }
+      ]
+    }
+  ]
+}
