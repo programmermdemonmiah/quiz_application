@@ -66,6 +66,7 @@ def check_answer(request, uid, createObj):
         return JsonResponse({'status': 404})
 
 
+@login_required
 def quiz(request, category_slug=None):
     try:
         if category_slug:

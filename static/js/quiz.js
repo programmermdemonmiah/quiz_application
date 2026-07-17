@@ -1,4 +1,4 @@
-document.querySelector('.background_div').style.height = window.height;
+document.querySelector('.background_div').style.minHeight = window.innerHeight + 'px';
 let answerInput = Array.from(document.getElementsByClassName('answerInput'));
 let click_uid, uid;
 var questionP = $('.questionP');
